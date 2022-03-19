@@ -1,5 +1,9 @@
 # TechBlog_MVC
 
+```
+The Tech Blog application is fully live and can be used as a messaging forum amongst the community. Create user, then create some posts and comment on others' posts as well. Discuss with the community!
+```
+
 ## User Story
 
 ```
