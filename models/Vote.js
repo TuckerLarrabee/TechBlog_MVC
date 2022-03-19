@@ -28,6 +28,7 @@ Vote.init(
     }
   },
   {
+    onDelete: 'cascade',
     sequelize,
     timestamps: false,
     freezeTableName: true,
